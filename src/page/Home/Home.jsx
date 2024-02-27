@@ -32,7 +32,8 @@ const Home = () =>{
         
         
     }
-  
+
+    
     return (
         <div className='Main_class'>
             <div className='form-con'> 
