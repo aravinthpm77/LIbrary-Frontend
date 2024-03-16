@@ -89,6 +89,7 @@ const DisplayBook = () => {
             <option value="SciFi">SciFi</option>
             <option value="Romance">Romance</option>
             <option value="Fantasy">Fantasy</option>
+            <option value="Horror">Horror</option>
           </select>
           <button className="search_button" onClick={handleSearch}>
             <FaSearch />
